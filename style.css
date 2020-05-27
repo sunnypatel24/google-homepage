@@ -5,6 +5,14 @@
     display: inline;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 #about {
     padding-top: 14px;
     padding-left: 14px;
