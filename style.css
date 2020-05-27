@@ -72,3 +72,47 @@ a:hover {
     left: 280px;
     top: 40px;
 }
+
+.footer {
+    font-size: 14px;
+    color: #4f4646;
+    list-style-type: none;
+    display: inline;
+}
+
+#advertising {
+    position: relative;
+    top: 355px;
+    left: -20px;
+    
+}
+
+#business {
+    position: relative;
+    top: 355px;
+    left: -5px;
+}
+
+#search-works {
+    position: relative;
+    top: 355px;
+    left: 10px;
+}
+
+#privacy {
+    position: relative;
+    top: 355px;
+    right: -860px; 
+}
+
+#terms {
+    position: relative;
+    top: 355px;
+    right: -880px; 
+}
+
+#settings {
+    position: relative;
+    top: 355px;
+    right: -900px; 
+}
