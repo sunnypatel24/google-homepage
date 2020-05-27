@@ -59,3 +59,16 @@ a:hover {
     top: 70px;
 }
 
+#search-button {
+    position: relative;
+    width: 11%;
+    left: 270px;
+    top: 40px;
+}
+
+#lucky-button {
+    position: relative;
+    width: 12%;
+    left: 280px;
+    top: 40px;
+}
