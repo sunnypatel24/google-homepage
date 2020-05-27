@@ -1,0 +1,25 @@
+.header-elements {
+    font-size: 13px;
+    color: #4f4646;
+    list-style-type: none;
+    display: inline;
+}
+
+#about {
+    padding-top: 14px;
+    padding-left: 14px;
+}
+
+#store {
+    margin-left: 20px;
+}
+
+#gmail {
+    margin-left: 1000px;
+}
+
+#images {
+    margin-left: 1190px;
+    position: relative;
+    bottom: 19px;
+}
