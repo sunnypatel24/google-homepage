@@ -39,3 +39,23 @@ a:hover {
     padding-top: 100px;
     width: 20%;
 }
+
+#search {
+    display: block;
+    border-radius: 30px;
+    width: 60%;
+    height: 10px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #9b9494;
+    word-wrap: break-word;
+}
+
+#magnifying-glass {
+    max-width: 20px;
+    position: relative;
+    margin-left: 470px;
+    top: 70px;
+}
+
